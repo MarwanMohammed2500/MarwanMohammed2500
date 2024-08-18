@@ -8,14 +8,7 @@ learning, in my opinion, is like a videogame skill-tree; you spend some points (
 
 A big part of why I'm studying intelligent systems is the fact that it mixes between a variety of fields, like electronics, robotics, AI, IoT, and a few other stuff all of which I adore and very much am interested in, and that I can innovate in it as well, add more meaning to it, or make it *define* awesomeness.
 
-Aside from what I study and do in the tech world, I like working with people, my current role as the Co-Founder and vice-president of AIRC, vice-president of AIEC, and previously the head of the HR department in AIEC, all taught me a lot of stuff about myself, about people, and about leadership.
-Working in a brand-new organization that is aimed at building and helping the community, that I got to help build from the ground up, taught me a lot of valuable lessons.
-
-I'm best known for being a great helper and leader among by peers, mainly because I love helping others and I know what I want, how to get it, and how to lead my team towards it, where everyone is happy and gained something.
-I know I wouldn't be where I am if it wasn't for the help I got from my father and some of my close friends, so why not help others become great as well.
-
-But behind all that, there is also a real person too, you might find me reading books on any topic, doing something related to cars, spending time with my family, out with my friends, socializing with people online, or just scrolling through Instagram.
-And on that note, feel free to contact me if you wanna talk a little, I'm always happy to talk!
+I'm alwas happy to talk and have a nice chat, so hit me up and we can talk about a lot of things :D
 <!---
 MarwanMohammed2500/MarwanMohammed2500 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
