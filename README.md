@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://marwan-mohammed-portfoli-442cb.web.app/">
-    <img src="https://raw.githubusercontent.com/MarwanMohammed2500/MarwanMohammed2500/main/assets/marwan-gradient.svg" alt="I'm Marwan"/>
+    <img src="https://raw.githubusercontent.com/MarwanMohammed2500/MarwanMohammed2500/main/assets/hi-im-marwan.svg" alt="I'm Marwan"/>
   </a>
 </p>
 
