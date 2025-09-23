@@ -1,4 +1,7 @@
-# 👋 Hey there, I'm Marwan Mohammed!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MarwanMohammed2500/MarwanMohammed2500/main/assets/marwan-gradient.svg" alt="I'm Marwan" />
+</p>
+
 Hello, I'm Marwan Mohammed, an undergrad Intelligent Systems Engineer, and a passionate tinkerer at heart.
 
 I love blending Data Science and MLOps with my growing interest in AIoT and Robotics. Whether it's training models, deploying them, or building intelligent systems from scratch, I enjoy the full journey from idea to production.
